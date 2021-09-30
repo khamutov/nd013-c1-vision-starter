@@ -1,8 +1,8 @@
 import argparse
 import glob
 import os
-import random
 import pathlib
+import random
 import shutil
 
 import numpy as np
